@@ -9,7 +9,7 @@ while temp > 0:
     temp //= 10
 
 if num == sum:
-    print(f"number {num} is armstrong number")
+    print(f"number {num} armstrong number")
 
 else :
-    print(f"number {num} is not armstrong number")
+    print(f"number {num} not armstrong number")
